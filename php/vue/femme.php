@@ -13,7 +13,7 @@
 		<title>Ouk&eacute;SHOP</title>
 	</head>
 	<header>
-
+      <!-- BITE -->
       <div class="navbar navbar-inverse navbar-fixed-top">
         <div class="container">
           <div class="navbar-header">

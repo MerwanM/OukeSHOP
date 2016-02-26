@@ -72,7 +72,7 @@
           </div>
         </div>
 
-          form name="form" action="connexion.php" method="POST">
+          <form name="form" action="connexion.php" method="POST">
           <div class="row">
               <div class="col-md-offset-2 col-md-3">
                   <div class="form-group">
